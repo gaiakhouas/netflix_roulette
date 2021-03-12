@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# but not these files
+!lib/*
+!assets/*
+!pubspec.yaml
+!.gitignore
