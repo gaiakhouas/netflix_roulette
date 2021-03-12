@@ -2,7 +2,13 @@
 *
 
 # but not these files
+!lib/
+!assets/
+!assets/fonts/*
 !lib/*
-!assets/*
+!lib/models/*
+!lib/pages/*
+!lib/screens/*
+!lib/services/*
+!lib/widgets/*
 !pubspec.yaml
-!.gitignore
